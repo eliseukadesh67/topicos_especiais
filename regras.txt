@@ -1,0 +1,9 @@
+Entrada:
+
+M e N, inteiros 1 <= N <= M <= 20, representando as dimensoes da matrix
+
+Depois M * N - 1 caractes inteiros representando o tabuleiro linearizado (sendo 0 representando o espaço vazio)
+
+Saida:
+
+Sequencia de caracteres (c, b, e, d), que representa os movimentos em relação ao espaço vazio
